@@ -1,0 +1,1 @@
+# Hackintosh-Dell-Vostro-3470-CloverEFI
